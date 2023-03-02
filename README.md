@@ -10,17 +10,12 @@ Great challenge for grid practice
 
 Users should be able to:
 
-- Fill in the form and see the card details update in real-time
-- Receive error messages when the form is submitted if:
-- Any input field is empty
-- The card number, expiry date, or CVC fields are in the wrong format
-- View the optimal layout depending on their device's screen size
-- See hover, active, and focus states for interactive elements on the page
+- View the optimal layout for the site depending on their device's screen size
 
 ### Links
 
-- Solution URL: [Click me!]()
-- Live Site URL: [Click me!]()
+- Solution URL: [Click me!](https://www.frontendmentor.io/solutions/testimonials-grid-section-using-vanilla-htmlcss-n4lfzClflT)
+- Live Site URL: [Click me!](https://lucent-cuchufli-1e7485.netlify.app)
 
 ### What I learned
 
